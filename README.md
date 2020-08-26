@@ -1,11 +1,11 @@
-#I. File list
+# I. File list
 ```
 .
 |    results_converter.py - Python script to convert the results of the Phase 1 optimization
 |    Dockerfile - Docker file to run python script
 ```
 
-#II. How to Run
+# II. How to Run
 1. Download the associated data at <insert url later>. Note, that this already contains both the inputs and outputs 
 of the phase 1 results conversion.
 2. Download and Run Docker Desktop. For more information on Docker visit: https://docs.docker.com/desktop/. To ensure 
